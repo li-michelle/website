@@ -235,6 +235,8 @@ yat:
 #   theme: "github-light"
 #   follow_site_theme: true
 
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 # Build settings
 # highlighter: none
 markdown: kramdown
